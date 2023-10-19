@@ -1,0 +1,4 @@
+Ble knapt med tid denn uken til å jobbe med oppgaven så ble ikke fullført som planen.
+Greite ikke å få til Router av en eller annen grunn, så hele planen med å bruke :slug får å bytte til de forskjellig sidene med dynamisk url gikk ikke. planen var også å legge til en
+input-felt hvor jeg hadde byttet om slug variabelen og hentet ut data ved bruk av inputfeltet som parameter i api-kallet.
+ende opp med å levere en version som fungerer hvertfall, selv om jeg ikke er så fornøyd med den. 
